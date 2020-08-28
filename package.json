@@ -1,18 +1,18 @@
 {
-  "name": "gitbook-plugin-forkmegithub",
-  "version": "2.2.0",
+  "name": "gitbook-plugin-forkmegithub-cn",
+  "version": "2.3.0",
   "description": "Display a ribbon to your GitHub repo in your gitbook",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mizunashi-mana/gitbook-plugin-forkmegithub.git"
+    "url": "git+https://github.com/wangding/gitbook-plugin-forkmegithub.git"
   },
   "author": {
-    "name": "Mizunashi Mana",
-    "email": "mizunashi_mana@mma.club.uec.ac.jp"
+    "name": "wangding",
+    "email": "408542507@qq.com"
   },
   "keywords": [
     "gitbook",
@@ -23,9 +23,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mizunashi-mana/gitbook-plugin-forkmegithub/issues"
+    "url": "https://github.com/wangding/gitbook-plugin-forkmegithub/issues"
   },
-  "homepage": "https://github.com/mizunashi-mana/gitbook-plugin-forkmegithub#readme",
+  "homepage": "https://github.com/wangding/gitbook-plugin-forkmegithub#readme",
   "engines": {
     "gitbook": ">=2.5.0"
   },
