@@ -20,7 +20,7 @@ require(['gitbook', 'jQuery'], function (gitbook, $) {
   var forkmeRibbon;
   var pluginConfig = {};
   function initializePlugin(config) {
-    pluginConfig = config.forkmegithub;
+    pluginConfig = config['forkmegithub-cn'];
 
     var colorRibbon = colorRibbons[pluginConfig.color];
     forkmeRibbon

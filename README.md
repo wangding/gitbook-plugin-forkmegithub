@@ -50,12 +50,12 @@ Fork [me][github-url] on GitHub, and [request][github-pr-url] your fix in this!
 [github-url]: https://github.com/wangding/gitbook-plugin-forkmegithub
 [github-pr-url]: https://github.com/wangding/gitbook-plugin-forkmegithub/pulls
 [npm-image]: https://img.shields.io/npm/v/gitbook-plugin-forkmegithub.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/gitbook-plugin-forkmegithub-cn
+[npm-url]: https://npmjs.org/package/gitbook-plugin-forkmegithubcn
 [license-image]: https://img.shields.io/npm/l/gitbook-plugin-forkmegithub.svg?style=flat-square
 [license-url]: https://github.com/wangding/gitbook-plugin-forkmegithub/blob/master/LICENSE
-[downloads-image]: http://img.shields.io/npm/dm/gitbook-plugin-forkmegithub-cn.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/gitbook-plugin-forkmegithub-cn
-[plugin-url]: https://plugins.gitbook.com/plugin/forkmegithub-cn
+[downloads-image]: http://img.shields.io/npm/dm/gitbook-plugin-forkmegithubcn.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/gitbook-plugin-forkmegithubcn
+[plugin-url]: https://plugins.gitbook.com/plugin/forkmegithubcn
 [longver-png-url]: https://cdn.jsdelivr.net/gh/wangding/gitbook-plugin-forkmegithub@master/docs/assets/longver.png
 [shortver-png-url]: https://cdn.jsdelivr.net/gh/wangding/gitbook-plugin-forkmegithub@master/docs/assets/shortver.png
 
