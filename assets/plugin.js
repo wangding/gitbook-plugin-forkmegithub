@@ -1,19 +1,19 @@
 require(['gitbook', 'jQuery'], function (gitbook, $) {
   var colorRibbons = {
     red: {
-      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-red.png'
+      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-red.webp'
     },
     green: {
-      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-green.png'
+      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-green.webp'
     },
     darkblue: {
-      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-darkblue.png'
+      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-darkblue.webp'
     },
     orange: {
-      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-orange.png'
+      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-orange.webp'
     },
     gray: {
-      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-gray.png'
+      src: 'https://cdn.jsdelivr.net/gh/wangding/sample@master/images/fork-me-on-github-gray.webp'
     },
   };
   
